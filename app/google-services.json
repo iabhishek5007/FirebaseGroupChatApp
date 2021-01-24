@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "dummy_value",
+    "firebase_url": "https://androiddvlpr.firebaseio.com",
+    "project_id": "dummy_value",
+    "storage_bucket": "androiddvlpr-website.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816553313122:android:21475c751cfc4f97",
+        "android_client_info": {
+          "package_name": "com.androiddvlpr.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "dummy_value",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddvlpr.chatapp",
+            "certificate_hash": "dummy_value"
+          }
+        },
+        {
+          "client_id": "dummy_value",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "dummy_value"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "dummy_value",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
